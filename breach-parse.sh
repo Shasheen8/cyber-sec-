@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 if [ $# -lt 2 ]; then
-    echo "Breach-Parse v2: A Breached Domain Parsing Tool by Heath Adams"
+    echo "Breach-Parser"
     echo " "
     echo "Usage: ./breach-parse.sh <domain to search> <file to output> [breach data location]"
     echo "Example: ./breach-parse.sh @gmail.com gmail.txt"
