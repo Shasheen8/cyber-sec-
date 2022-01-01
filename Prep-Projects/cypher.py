@@ -1,6 +1,1 @@
-# Cyphers / encryption algorithms
-
-#Implement a cypher which converts text to emoji or something.
-#Be able to implement basic cyphers.
-
-#Trying to learn Git as well
+#Implement a cipher  which converts text to emoji 
