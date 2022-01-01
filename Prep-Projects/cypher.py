@@ -2,5 +2,3 @@
 #Implement a cipher  which converts text to emoji 
 
 
-
-#first test failed, testinf 2nd time
