@@ -1,0 +1,19 @@
+git add -all 
+
+git commit -m "<message>"
+
+git push (to the origin)
+
+git remote -v 
+
+git push --set-upstream (to a particular branch)
+
+git switch -c (new Branch)
+
+git fetch (download objects, ref from another repo) <add in the repo link>
+
+git pull (pull request for a forked repo/compare)
+
+git checkout (checkout which branch your in)
+
+git status
