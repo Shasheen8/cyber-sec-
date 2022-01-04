@@ -7,7 +7,7 @@
 from base64 import b64encode, b64decode
 import hashlib
 import os 
-from Cryptodome.Cipher import AES
+from Crytodome.Cipher import AES
 from Cryptodome.Random import get_random_bytes
 
 
