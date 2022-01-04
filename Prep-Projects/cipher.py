@@ -2,6 +2,7 @@
 # trying Implementation of 256 AES Cipher
 # Certain concepts to keep in mind. Galois/Counter Mode. 
 # padding is important for keeping encrytpion strong and unpredictable. 
+# Install this version [pip install "pycryptodomex==3.9.7"]
 
 from base64 import b64encode, b64decode
 import hashlib
