@@ -17,3 +17,5 @@ git pull (pull request for a forked repo/compare)
 git checkout (checkout which branch your in)
 
 git status
+
+Git merge (not used much honestly)
