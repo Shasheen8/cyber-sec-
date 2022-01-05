@@ -19,3 +19,5 @@ git checkout (checkout which branch your in)
 git status
 
 Git merge (not used much honestly)
+
+Git log (Log events **important command)
