@@ -21,3 +21,7 @@ git status
 Git merge (not used much honestly)
 
 Git log (Log events **important command)
+
+Git branch
+
+git checkout <dir/repo>
