@@ -1,6 +1,7 @@
 #implementing a botnet
 #Important concepts: A botnet is controlled by a Command & Control center
 #pxssh works on Linux distro's
+# We need to connect theh connect the command center to the client throuh some protocol 
 
 
 def botnet_command(command):
