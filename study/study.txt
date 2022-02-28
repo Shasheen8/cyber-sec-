@@ -4,3 +4,5 @@ Intelligence Sources:
 - Relevancy: property of source ensures it matches use cases intended for.
 - Accuracy: Property of source ensures it produces effective results.
 - Confidence levels: Property of source ensures it produces qualified statements of reliability.
+
+Hello 
