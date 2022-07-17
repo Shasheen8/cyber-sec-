@@ -1,0 +1,22 @@
+Data feeds used for automation systems and real time info& also a list of known bad indicators ie domain names, IPs, etd . Narrative reports provide info but needs to be done manually. Sec intel provides insights into the security status of those systems. 
+CTI provides data about the external threat landscape like hacker groups, zero day, etc.                                  
+
+ AT&T is open source intel , IBM-Xforce, Recorded future and fireeye is closed source             CTI over HTTPS in using REST via API is TAXII
+
+Hospitals can use info of ISAC that can help detect threats better is Adding new rules for monitoring, Create definitions of TTP.             Measure total attack surface of a corporate network by attack vectors.  IOC is a measure of a successful attack. Impact analysis is to assess cost with an incident.                
+
+CVSS is measured by Access complexity and user interaction.                   
+Correlate IoC into attack patterns, analyst can identify several TTPs → This represents behavior threat research.     
+Reputational threat research identifies IPs and DNS domains              
+If you review a list of vulnerabilities on the network, operational level you would identify priorities for remediation, strategic point you would Identify unrecognized sources of vulns.  Primarily based on RIsk management. 
+
+Scanning outside the firewall or IPS  will miss a lot of the true risks & vulns therefore false negatives.     
+Security framework or checklist of controls & configurations settings is to set Compliance. 
+
+Check for fingerprinting → host system detection maps open ports, files hares running services , foot printing → Layout of network               man-in-the-middle tool that exploits name resolution → Responder                  
+pentest tool with ability to craft network packets to exploit vuln firewalls → HPING             Hashcat → password recovery tool.   Reaver → Designed to exploit WPS.        Prowler → Audit tool specific to AWS evaluate cloud instances.  
+
+Enumeration tools, nmap, etc as well as wireless tools and attacks.    namp -sL → perform reverse-DNS, Business vuln scanner for small networks → Nessus,     OpenVas → Open-source software available for src code or pre-complied packages,     Qualys is a cloud-based service,     Pacu exploit framework to test security configs of AWS account.     
+     Nmap output options will result in a human readable output → Interactive       normal out is directed to a file, XML out put is achieved by -oX,   Grepable output delimits the output using one line                         Aircrack-ng: uses airplay-ng inject frames  to perform a deauth attack by forcing victim to reauth.        airodump-ng → captures 802.11 frames to identify MAC addresses.   airmon-ng → monitor mode.               packets transmit to an app while using unexpected values in a payload → Fuzzing via protocol.              A file format fuzzer attempts to open files whose format has been manipulated. 
+
+Dynamic code analysis and Reverse engineering.
